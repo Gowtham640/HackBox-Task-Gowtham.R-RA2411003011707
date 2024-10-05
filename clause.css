@@ -247,6 +247,7 @@ body{
 #ok{
     display: flex;
     align-items: center;
+    gap: 2%;
 }
 .plan{
     font-family: tiemp;
@@ -316,7 +317,7 @@ body{
     margin-left: 50%;
 }
 #hey {
-    background-color: rgb(117, 36, 36);
+    background-color: rgb(241, 238, 229);
     height: 100%;
     width: 100%;
     position: relative; /* Added relative positioning */
@@ -345,7 +346,7 @@ body{
     z-index: 1; /* Ensure this is lower */
     position: relative; /* Keep this relative */
     animation: a2 ease-in-out;
-    animation-duration: 6s;
+    animation-duration: 8s;
 }
 .s3{
     width: 238px;
@@ -359,7 +360,7 @@ body{
     padding: 1%;
     position: absolute;
     animation: a3 ease-in-out;
-    animation-duration: 6s;
+    animation-duration: 8s;
 }
 .s4{
     background-color: rgb(255, 255, 255);
@@ -370,7 +371,7 @@ body{
     z-index: 1; /* Ensure this is lower */
     position: relative; /* Keep this relative */
     animation: a4 ease-in-out;
-    animation-duration: 6s;
+    animation-duration: 8s;
 }
 .style{
     font-family: styr;
